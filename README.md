@@ -9,4 +9,4 @@ Detailed documentation and information can be found in the [Wiki](https://github
 ## User Interface
 ![Main View](https://github.com/BusyBread/keepAwake/blob/main/images/keepAwake-Main.png)
 
-![Validate View](https://github.com/BusyBread/keepAwake/blob/main/images/keepAwake-Validate.png)
+![Validation View](https://github.com/BusyBread/keepAwake/blob/main/images/keepAwake-Validation.png)
